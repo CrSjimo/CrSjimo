@@ -1,9 +1,16 @@
 # Crindzebra Sjimo
 
+## Name & Identity
+
+The name **Crindzebra Sjimo** comes from a self-made conlang, pronounced /ksɯɪɲd͡zɛbɯɑ sjɪmɔ/, lit. "Faith-Standing-Tree Smart".
+
 a.k.a
 - **CrSjimo** (An abbreviation of *Crindzebra Sjimo*)
 - **crs**/**CRS**/**CrS**/**Cr. S.** (Acronyms of *Crindzebra Sjimo* in different forms)
-- **Li Xingye**/**李星烨** (Real-name)
+- **Li Xingye**/**李星烨** (Real-name, lit. "Twinkling Stars")
+- **没有学人** (Nickname, lit. "No-Learning Man")
+
+Pronoun: Using **they/them** or **crs** directly is preffered, but any pronouns are OK.
 
 ## I'm Interested In
 
@@ -11,7 +18,7 @@ a.k.a
 - Audio development
 - Qt QML & Quick
 - Singing voice synthesis
-- Music production
+- Music production ([collection of works](https://space.bilibili.com/1267740070/lists/7457866))
 
 ## Stats
 
