@@ -18,7 +18,7 @@ Pronoun: Using **they/them** or **crs** directly is preffered, but any pronouns 
 - Audio development
 - Qt QML & Quick
 - Singing voice synthesis
-- Music production ([collection of works](https://space.bilibili.com/1267740070/lists/7457866))
+- Music production ([collection of works](https://music.sjimo.dev/))
 
 ## Stats
 
